@@ -4,6 +4,5 @@
 - 💞️ I’m looking to collaborate on anything people have to help me improve in what im doing at the moment
 - 📫 How to reach me email me on joppe.montezinos@gmail.com
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/joppe2001=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=joppe2001&count_private=true&theme=radical&showicons=true)]()
 

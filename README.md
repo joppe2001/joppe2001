@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @joppe2001
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning the front-end 
-- 💞️ I’m looking to collaborate on anything people have to help me improve in what im doing at the moment
-- 📫 How to reach me email me on joppe.montezinos@gmail.com
+# 👋 Hey there! I'm Joppe Montezinos
+
+Full-stack developer with a passion for creating robust web applications and diving deep into machine learning.
+
+## 🛠 Tech Stack
+- Frontend: React, TypeScript, Next.js, Tailwind CSS
+- Backend: Node.js, Express, PostgreSQL
+- Currently exploring: PyTorch, TensorFlow, scikit-learn
+
+## 🎯 Current Focus
+- Building scalable web applications
+- Implementing machine learning algorithms
+- Contributing to open-source projects
+
+## 🤝 Let's Connect!
+- 📧 Email: joppe.montezinos@gmail.com
+- 💼 Open to collaboration on web dev and ML projects
+
+Feel free to explore my repositories and reach out for interesting opportunities!
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joppe2001&theme=navy-gear)](https://git.io/streak-stats)
 

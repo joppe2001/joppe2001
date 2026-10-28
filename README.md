@@ -2,8 +2,6 @@
 
 Full-stack developer with a passion for creating robust web applications and diving deep into machine learning.
 
-## 💍 **[Help me pay for a wedding ring to lock in my girlfriend](https://www.gofundme.com/f/time-to-maker-her-my-wife)**
-
 ## 🛠 Tech Stack
 - Frontend: React, TypeScript, Next.js, Tailwind CSS
 - Backend: Node.js, Express, PostgreSQL
